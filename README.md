@@ -37,5 +37,3 @@ The main goals of Task 1 are to:
 - `numpy` for numerical operations
 - `seaborn` and `matplotlib` for data visualization
 - `scikit-learn` for standardization
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
